@@ -63,6 +63,8 @@ Skills maintained by the Medusa team are available in the [medusajs/medusa-agent
 
 Repositories with multiple Medusa skills that span several categories.
 
+_Have one to add? [Submit a skill](#submit-a-skill)._
+
 <!-- Add entries in alphabetical order -->
 
 - [codee-skills](https://github.com/codee-sh/codee-skills/tree/main/frameworks/medusa) - Covers Medusa backend conventions, admin dashboard forms, storefront SDK and UX, testing, scripts, plugin delivery, and spec reviews across nine skills. By [@codee-sh](https://github.com/codee-sh).
@@ -71,6 +73,8 @@ Repositories with multiple Medusa skills that span several categories.
 ### Backend
 
 Custom modules, data models, workflows, API routes, subscribers, and other Medusa backend customizations.
+
+_Have one to add? [Submit a skill](#submit-a-skill)._
 
 <!-- Add entries in alphabetical order -->
 
@@ -84,21 +88,23 @@ Custom modules, data models, workflows, API routes, subscribers, and other Medus
 
 Storefronts built with Medusa, using any frontend framework.
 
-<!-- Add entries in alphabetical order -->
+_Have one to add? [Submit a skill](#submit-a-skill)._
 
-_No skills yet. [Submit one](#submit-a-skill)!_
+<!-- Add entries in alphabetical order -->
 
 ### Admin Dashboard
 
 Admin widgets, UI routes, and other Medusa Admin customizations.
 
-<!-- Add entries in alphabetical order -->
+_Have one to add? [Submit a skill](#submit-a-skill)._
 
-_No skills yet. [Submit one](#submit-a-skill)!_
+<!-- Add entries in alphabetical order -->
 
 ### Integrations
 
 Integrating Medusa with third-party services, such as payment, fulfillment, CMS, search, or analytics providers.
+
+_Have one to add? [Submit a skill](#submit-a-skill)._
 
 <!-- Add entries in alphabetical order -->
 
@@ -108,17 +114,17 @@ Integrating Medusa with third-party services, such as payment, fulfillment, CMS,
 
 Deploying, hosting, monitoring, migrating, and upgrading Medusa applications.
 
-<!-- Add entries in alphabetical order -->
+_Have one to add? [Submit a skill](#submit-a-skill)._
 
-_No skills yet. [Submit one](#submit-a-skill)!_
+<!-- Add entries in alphabetical order -->
 
 ### Other
 
 Skills that don't fit in the categories above.
 
-<!-- Add entries in alphabetical order -->
+_Have one to add? [Submit a skill](#submit-a-skill)._
 
-_No skills yet. [Submit one](#submit-a-skill)!_
+<!-- Add entries in alphabetical order -->
 
 ## Installing a Skill
 

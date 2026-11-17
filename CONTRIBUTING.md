@@ -18,7 +18,7 @@ A skill must meet the following requirements to be listed:
 
 1. Fork this repository.
 2. In [README.md](./README.md), find the category that best fits your skill. If none fits, use the **Other** category. If your repository has multiple Medusa skills that span several categories, use the **Skill Collections** category.
-3. Add your skill's entry to the category in alphabetical order, using the [entry format](#entry-format). If the category has the `_No skills yet._` placeholder, replace it with your entry.
+3. Add your skill's entry to the category's list in alphabetical order, using the [entry format](#entry-format).
 4. Open a pull request and fill out the pull request template.
 
 Submit one pull request per skill or skill collection. A maintainer will review your pull request and may request changes before merging it.
