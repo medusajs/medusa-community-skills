@@ -1,0 +1,53 @@
+name: Submit a skill
+description: Suggest a community skill for Medusa to add to the list.
+title: "[Skill]: "
+labels: ["skill submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Prefer opening a pull request if you can. Refer to the [contributing guide](https://github.com/medusajs/medusa-community-skills/blob/main/CONTRIBUTING.md) for the requirements.
+  - type: input
+    id: name
+    attributes:
+      label: Skill name
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      description: Link to the skill's public repository or directory.
+      placeholder: https://github.com/owner/repo
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Skill Collections
+        - Backend
+        - Storefront
+        - Admin Dashboard
+        - Integrations
+        - Deployment and Operations
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: One sentence about what the skill helps agents do.
+    validations:
+      required: true
+  - type: checkboxes
+    id: requirements
+    attributes:
+      label: Requirements
+      options:
+        - label: The skill meets the requirements in the contributing guide.
+          required: true
+        - label: I'm the author of this skill, or I have the author's permission to submit it.
+          required: true
