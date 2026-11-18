@@ -110,14 +110,6 @@ _Have one to add? [Submit a skill](#submit-a-skill)._
 
 - [medusa-commerce](https://github.com/membranedev/application-skills/tree/main/skills/medusa-commerce) - Manages Medusa store data and automates workflows through the Membrane platform, which requires a Membrane account. By [@membranedev](https://github.com/membranedev).
 
-### Deployment and Operations
-
-Deploying, hosting, monitoring, migrating, and upgrading Medusa applications.
-
-_Have one to add? [Submit a skill](#submit-a-skill)._
-
-<!-- Add entries in alphabetical order -->
-
 ### Other
 
 Skills that don't fit in the categories above.
