@@ -6,7 +6,7 @@ Thank you for sharing your skill with the Medusa community! This guide explains 
 
 A skill must meet the following requirements to be listed:
 
-- It's related to Medusa, such as building, extending, integrating, deploying, or operating a Medusa application.
+- It's related to Medusa, such as building, extending, or integrating a Medusa application.
 - It's hosted in a public repository, such as on GitHub, so that anyone can review and install it.
 - It follows the [Agent Skills specification](https://agentskills.io), with a `SKILL.md` file that has a `name` and `description` in its frontmatter.
 - Its repository has a README that explains what the skill does and how to install it.
@@ -17,11 +17,11 @@ A skill must meet the following requirements to be listed:
 ## Add a Skill
 
 1. Fork this repository.
-2. In [README.md](./README.md), find the category that best fits your skill. If none fits, use the **Other** category. If your repository has multiple Medusa skills that span several categories, use the **Skill Collections** category.
+2. In [README.md](./README.md), find the category that best fits your skill. If none fits, use the **Other** category. If your repository has multiple Medusa skills, add a separate entry for each skill in the category that fits it.
 3. Add your skill's entry to the category's list in alphabetical order, using the [entry format](#entry-format).
 4. Open a pull request and fill out the pull request template.
 
-Submit one pull request per skill or skill collection. A maintainer will review your pull request and may request changes before merging it.
+Submit one pull request per skill or skill repository. A maintainer will review your pull request and may request changes before merging it.
 
 ## Entry Format
 
@@ -39,7 +39,7 @@ For example:
 
 Keep in mind:
 
-- Use the `name` from the skill's `SKILL.md` frontmatter as the link text. For a collection, use the repository or directory name.
+- Use the `name` from the skill's `SKILL.md` frontmatter as the link text.
 - Link to the skill's directory or repository, not to a specific commit.
 - Keep the description to one sentence that starts with a verb and ends with a period.
 - Don't include marketing language, such as "the best" or "ultimate".

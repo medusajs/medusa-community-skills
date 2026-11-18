@@ -26,12 +26,10 @@ body:
     attributes:
       label: Category
       options:
-        - Skill Collections
         - Backend
         - Storefront
         - Admin Dashboard
         - Integrations
-        - Deployment and Operations
         - Other
     validations:
       required: true
